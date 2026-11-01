@@ -151,16 +151,6 @@ See [`RESULTS.md`](RESULTS.md) for the experimental environment, observed model 
 
 Before final submission, make sure the report includes the actual observed response for the assignment's haiku prompt and the actual observed response for the safety prompt. Do not claim a safety refusal or describe a response as a haiku unless the recorded output supports that conclusion.
 
-## Screen-Recording Videos
-
-Add the three required MP4 recordings to the corresponding folders below, and replace the placeholder links with the final filenames. Use the exact naming convention specified in the assignment brief, including the correct student number(s) and project title.
-
-1. **Installation** — repository clone, virtual environment, dependency installation, and Hugging Face authentication.  
-   `video/1-Installation/` — [Add the final installation video link]
-2. **Implementation and Demo** — explain `src/model.py`, run `demo.py`, and demonstrate at least three different prompts.  
-   `video/2-Implementation/` — [Add the final implementation video link]
-3. **Testing and Results** — run the unit tests, show `RESULTS.md`, and demonstrate all five qualitative-analysis prompts with the model.  
-   `video/3-Testing/` — [Add the final testing video link]
 
 ## Security and Reproducibility Notes
 
